@@ -4,7 +4,7 @@ This repository contains a **Node.js application** with a **Jenkins CI/CD pipeli
 The pipeline is automatically triggered by **GitHub Webhooks** whenever a commit is pushed to the `main` branch or a pull request is opened/updated.
 
 ---
-
+## Lab 10-SCD
 ## **Pipeline Stages**
 
 1. **Checkout Code**  
