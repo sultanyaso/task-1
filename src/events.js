@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-
+//yasir sultan lab 10
 // Path to the data file
 const dataFile = path.join(__dirname, "../data/events.json");
 
